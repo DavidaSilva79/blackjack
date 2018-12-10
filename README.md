@@ -1,3 +1,3 @@
 # blackjack-py
 
-Um jogo simples de blackjack desenvolvido com a linguagem python
+Um game simples de blackjack desenvolvido com a linguagem python
